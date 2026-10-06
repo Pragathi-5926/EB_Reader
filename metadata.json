@@ -1,0 +1,6 @@
+{
+  "name": "EB MeterSnap",
+  "description": "Bilingual (Tamil & English) smart electricity meter reader and TANGEDCO 500-unit slab cliff tracker for Tamil Nadu households.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
